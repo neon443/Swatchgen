@@ -1,0 +1,2 @@
+# Swatchgen
+Generate Colour palettes!
