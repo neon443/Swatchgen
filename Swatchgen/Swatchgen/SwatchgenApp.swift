@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct SwatchgenApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
+	@State private var savedPalettes: [[Color]] = []
+	@State private var showOpacity: Bool = false
+
+	var body: some Scene {
+		WindowGroup {
+			ContentView()
+		}
+	}
 }
