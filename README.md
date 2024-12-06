@@ -1,6 +1,8 @@
 # Swatchgen  
 **Swatchgen** is an intuitive iOS app for creating and managing color palettes. Perfect for designers, artists, and anyone who loves colors, Swatchgen makes it easy to generate, save, and customize your palettes
 
+[Jump to Screenshots](#screenshots)
+
 ## Features  
 ### 🎨 Generate Color Palettes  
 - Create palettes with **1 to 20 colors** at a time
@@ -32,9 +34,6 @@
 4. **Customize Opacity**  
    - Use the **Opacity Toggle** to decide whether the alpha channel should be displayed in the color preview.
 
-## Screenshots  
-
-
 ## Technologies Used  
 - **Swift**: A modern and fast programming languages built for Apple Platforms
 - **SwiftUI**: For a sleek and modern user interface
@@ -50,3 +49,9 @@ Swatchgen is released under the MIT License. See [LICENSE](LICENSE) for details
 
 ## Feedback & Support  
 Have questions or suggestions? Open an issue in the repository
+
+## Screenshots
+![IMG_5445](https://github.com/user-attachments/assets/2e6de05b-60da-47e6-be1b-d7b88b121eca)
+![IMG_5444](https://github.com/user-attachments/assets/fa3c4432-b15b-45f1-8716-9fdba9ec729f)
+![IMG_5443](https://github.com/user-attachments/assets/807df7c6-b077-4cb0-a013-9ac1260111ce)
+![IMG_5442](https://github.com/user-attachments/assets/94cf8d3b-ede6-45df-883e-e658bda544f0)
